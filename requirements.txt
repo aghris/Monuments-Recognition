@@ -1,0 +1,11 @@
+numpy
+os
+PIL
+cv2
+keras
+numpy
+matplotlib
+ipywidgets 
+tkinter 
+folium 
+seaborn 
