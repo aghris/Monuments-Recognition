@@ -12,7 +12,7 @@ It contains 5 subfolders, each represent a specific monument, i choosed to work 
 * Taj Mahal ; 
 * Eiffel Tower ; 
 * Statue of Liberty ; 
-* KL Towers
+* Petronas Towers
 
 # Folder 2: icons
 
