@@ -1,4 +1,4 @@
-This project was done during my internship Advanced Analytics Engineering Center (AAEC), it is located
+This project was done during my internship at Advanced Analytics Engineering Center (AAEC), it is located
 at the faculty of of Computer Science and Mathematics (FSKM UiTM), Shah Alam, Malaysia.
 
 # Goal of the project
