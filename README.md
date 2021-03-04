@@ -16,18 +16,23 @@ It contains 5 subfolders, each represent a specific monument, i choosed to work 
 
 # Folder 2: icons
 ======
+
 It contains images used in the interface.
 
 # Folder 3: test
 ======
+
 It contains random images to test the model via `Interface.ipynb` notebook.
 
 # Notebooks:
 ======
+
 * `Model_From_Sractch.ipynb`: Building the CNN model from sratch without using pretrained models ;
 * `Xception_Pretrained_model.ipynb`: Implementation of the pretrained model Xception ;
 * `Inceptionv3_Pretrained_model.ipynb` : Implementation of the pretrained model Inceptionv3 ;
 * `VGG19_Pretrained_model.ipynb`: Implementation of the pretrained model VGG with 19 layers.
 
 # Remarks:
+======
+
 In the `Report.pdf` and `Presentation.pdf`, you will find a detailed comparaison between different approaches used in this project.
