@@ -7,7 +7,7 @@ Monuments classification based on Convolutional Neural Network (CNN) from sratch
 # Folder 1: Data
 
 
-It contains 5 subfolders, each represent a specific monument, i choosed to work with:
+It contains 5 subfolders, each represents a specific monument, i choosed to work with:
 * Big Ben ; 
 * Taj Mahal ; 
 * Eiffel Tower ; 
