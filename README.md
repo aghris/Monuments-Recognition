@@ -31,6 +31,7 @@ It contains random images to test the model via `Interface.ipynb` notebook.
 * `Xception_Pretrained_model.ipynb`: Implementation of the pretrained model Xception ;
 * `Inceptionv3_Pretrained_model.ipynb` : Implementation of the pretrained model Inceptionv3 ;
 * `VGG19_Pretrained_model.ipynb`: Implementation of the pretrained model VGG with 19 layers.
+* `Interface.ipynb`: The user can test the model on unseed data (test folder) via a desktop application developed using tkinter, and get the location of the monument.
 
 # Remarks:
 
